@@ -1,0 +1,13 @@
+
+
+	Query_question_is :  to fetch the data regarding the count of unique users, according to their video configuration type.
+
+	Query : db.quantravid.aggregate(
+                            [
+                                {$match : { 'config.isPlaying' : true }},
+                                {$group : { _id : {'Playback_rate' : '$config.playbackRate','Full_screne' : '$config.isFullscreen','subtitle' : '$config.subtitle','muted' : '$config.isMuted','playing' : 																			'$config.isPlaying'},uniqueUserID: {$addToSet:'$userId'}}},
+                                {$project : {"count_correct_unique": {$size: "$uniqueUserID"}}},
+                                {$sort : {'count_correct_unique' : -1}}
+                            ]
+                        )
+

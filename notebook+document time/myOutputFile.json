@@ -1,0 +1,3404 @@
+[
+ {
+  "courseId,sectionId,unitId,unitType": "26,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,1,2,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,1,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,1,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,1,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,1,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,2,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,2,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,2,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,2,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,2,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,2,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,2,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,2,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,2,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,2,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,3,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,2,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,8,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,12,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,13,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,15,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,16,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,4,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,5,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,5,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,5,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,5,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,5,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,6,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,6,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,6,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "26,7,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,6,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,12,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,13,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,14,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,15,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,3,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,7,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,10,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,1,2,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,2,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,2,3,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,2,6,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,2,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,2,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,2,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,2,4,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,2,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,2,2,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,2,7,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,2,11,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,2,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,3,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,11,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,12,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,15,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,16,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,17,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,18,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,19,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,14,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,3,13,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,4,2,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "28,4,1,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,1,2,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,1,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,1,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,1,6,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,1,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,1,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,2,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,2,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,2,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,2,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,2,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,2,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,2,8,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,2,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,2,5,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,3,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,3,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,3,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,3,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,2,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,3,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,4,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,10,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,12,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,4,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,5,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,5,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,5,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,5,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,5,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,5,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,6,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,6,2,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,6,3,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "34,6,4,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,1,2,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,1,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,1,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,5,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,8,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,10,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,12,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,2,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,4,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,7,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,11,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,12,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,15,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,16,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,3,17,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,9,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,10,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,12,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,4,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,5,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,5,2,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,5,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,5,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,5,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,5,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,6,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,6,2,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "39,6,3,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,2,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,2,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,2,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,2,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,2,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,2,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,2,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,2,8,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,2,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,2,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,2,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,2,12,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,7,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,11,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,13,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,14,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,15,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,16,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,17,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,18,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,19,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,20,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,21,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,22,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,3,23,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,7,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,9,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,12,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,13,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,14,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,15,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,16,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,17,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,18,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,19,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,20,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,21,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,4,22,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,5,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,5,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,5,3,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,5,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,5,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,5,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,5,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,5,8,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,6,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,6,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,6,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,6,4,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,6,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,6,6,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,7,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,7,3,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,7,4,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,7,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,7,6,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,7,7,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "43,7,2,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,1,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,1,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,2,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,2,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,2,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,2,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,2,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,2,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,2,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,2,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,3,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,5,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,8,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,10,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,12,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,13,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,15,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,16,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,18,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,20,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,21,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,19,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,4,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,4,2,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,4,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,4,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,4,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,4,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,4,10,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,4,9,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "46,4,8,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,2,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,6,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,8,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,10,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,12,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,1,14,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,2,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,2,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,2,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,2,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,2,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,2,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,2,6,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,2,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,2,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,2,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,2,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,2,12,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,7,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,10,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,13,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,15,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,16,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,3,18,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,4,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,4,2,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,4,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,4,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,4,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,4,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,4,8,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,3,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,12,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,15,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,16,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,17,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,8,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "54,5,2,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,2,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,7,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,11,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,21,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,15,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,16,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,17,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,18,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,19,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,20,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,8,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,12,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,1,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,15,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,12,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,13,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,11,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,6,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,16,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,2,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,8,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,14,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,15,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,16,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,3,18,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,5,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,6,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,6,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,6,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,6,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,6,5,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,6,6,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,7,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,7,4,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,7,5,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,7,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,7,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,8,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,8,4,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,8,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,8,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,8,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,8,9,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,8,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,8,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,8,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,9,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,9,2,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,4,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,4,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "55,4,4,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,1,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,1,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,2,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,3,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,4,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,8,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,10,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,12,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,13,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,15,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,16,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,17,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,18,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,19,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,2,20,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,4,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,7,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,10,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,13,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,15,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,16,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,18,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,19,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,20,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,3,21,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,4,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,7,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,10,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,13,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,4,15,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,5,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "56,5,2,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,2,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,8,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,10,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,1,13,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,2,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,2,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,2,3,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,2,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,2,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,2,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,2,7,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,2,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,3,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,3,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,3,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,3,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,3,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,3,8,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,3,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,5,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,6,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,12,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,13,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,4,14,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,5,2,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "57,5,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,1,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,1,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,1,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,1,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,1,8,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,1,9,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,1,11,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,1,2,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,1,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,2,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,2,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,2,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,2,4,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,2,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,3,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,15,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,16,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,18,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,20,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,21,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,23,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,22,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,24,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,26,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,27,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,28,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,29,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,30,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,31,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,33,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,34,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,25,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,32,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,11,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,13,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,3,19,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,8,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,4,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,5,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,11,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,13,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,4,15,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,5,2,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,5,3,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,5,4,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,5,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,5,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,5,6,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,5,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,5,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,5,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,5,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,5,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,5,12,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,6,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "58,6,2,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,1,2,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,1,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,1,5,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,1,6,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,1,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,1,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,1,9,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,1,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,1,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,2,5,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,2,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,2,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,2,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,2,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,2,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,2,2,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,2,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,2,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,2,1,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,3,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,3,4,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,3,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,3,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,3,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,3,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,3,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,2,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,10,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,13,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,14,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,17,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,19,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,21,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,15,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,16,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,20,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,6,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,4,19,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,5,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,6,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,9,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,12,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,14,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,15,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,16,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,5,18,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,6,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,6,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,6,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,6,7,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,6,4,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,6,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,6,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,7,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "60,7,2,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,1,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,2,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,2,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,2,3,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,2,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,2,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,2,6,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,3,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,3,4,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,0,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,8,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,12,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,4,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,5,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,5,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,6,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,6,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,6,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,6,4,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,6,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,6,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,6,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,6,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,6,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,7,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,7,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,7,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,7,4,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,7,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "63,8,1,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,1,2,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,2,2,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,2,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,2,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,2,5,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,2,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,2,7,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,2,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,2,10,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,2,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,2,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,2,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,4,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,7,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,9,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,12,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,15,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,16,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,19,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,18,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,20,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,4,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,7,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,10,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,12,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,13,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,15,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,16,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,17,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,19,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,18,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,20,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,21,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,5,22,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,6,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,6,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,6,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,6,4,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,6,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,6,7,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,6,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,6,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,6,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,1,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,3,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,8,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,15,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,19,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,18,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,16,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,7,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,1,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,3,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,7,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,12,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,13,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,15,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,16,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,18,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,8,19,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,9,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,9,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,9,1,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,9,3,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,9,4,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,9,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,9,6,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,9,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,9,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,10,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,10,3,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,10,6,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,10,4,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,10,2,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,10,5,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,3,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,3,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,3,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,3,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,3,8,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,3,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,3,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "66,3,7,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,4,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,19,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,9,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,12,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,15,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,16,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,8,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,17,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,3,18,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,14,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,7,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,11,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,12,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,4,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,2,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,2,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,2,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,2,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,2,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,2,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,2,6,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,2,5,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,1,2,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,1,6,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,1,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,1,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,1,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,1,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,1,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,1,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,10,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,13,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,15,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,16,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,20,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,6,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,18,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,19,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,21,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,22,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,5,23,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,6,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,6,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,6,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,6,4,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,6,6,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,6,5,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,6,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,6,4,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,8,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,11,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,20,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,13,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,16,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,18,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,15,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,4,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,7,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,19,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "69,7,21,ZipFiles"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,2,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,8,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,16,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,20,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,21,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,22,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,23,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,24,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,25,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,29,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,30,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,10,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,18,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,26,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,27,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,28,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,31,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,19,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,6,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,13,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,1,15,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,3,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,6,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,8,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,10,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,11,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,12,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,14,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,15,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,16,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,18,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,19,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,20,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,21,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,22,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,23,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,24,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,25,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,26,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,28,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,29,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,27,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,30,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,31,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,32,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,33,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,34,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,2,13,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,5,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,12,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,13,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,14,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,3,15,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,4,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,5,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,6,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,8,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,10,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,12,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,13,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,14,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,15,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,16,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,17,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,18,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,4,19,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,1,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,2,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,3,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,4,Notebook"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,5,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,6,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,7,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,8,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,9,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,10,Exercise"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,11,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,12,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,13,Quiz"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,14,Document"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,15,Video"
+ },
+ {
+  "courseId,sectionId,unitId,unitType": "70,5,16,ZipFiles"
+ }
+]
